@@ -54,7 +54,7 @@
   <a href="shahriarmahir114@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/shahriarmahir" target="_blank">
+  <a href="https://github.com/Vortex-Xx" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
