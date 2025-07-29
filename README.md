@@ -36,11 +36,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarmahir&show_icons=true&theme=radical&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vortex-Xx&show_icons=true&theme=radical&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=ffffff&bg_color=0d1117" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarmahir&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vortex-Xx&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarmahir&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-Xx&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
